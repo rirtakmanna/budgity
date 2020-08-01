@@ -1,4 +1,4 @@
-﻿<!-- All batches -->
+<!-- All batches -->
 [![GitHub package.json version][GitHub-version]]()
 [![GitHub last commit][commit]]()
 [![Issues][issues-shield]][issues-url]
@@ -31,14 +31,14 @@
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
-  - [:clipboard: Built With](#-built-with)
-- [🏁 Getting Started](#-getting-started)
+  - [:clipboard: Built With](#clipboard-built-with)
+- [:checkered_flag: Getting Started](#checkered_flag-getting-started)
   - [Prerequisites](#prerequisites)
-  - [✨ Installation](#-installation)
+  - [:sparkles: Installation](#sparkles-installation)
 - [Usage](#usage)
-- [📍 Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
+- [:round_pushpin: Roadmap](#round_pushpin-roadmap)
+- [:v: Contributing](#v-contributing)
+- [:memo: License](#memo-license)
 - [Author](#author)
 
 <!-- ABOUT THE PROJECT -->
@@ -55,14 +55,14 @@ An App for keep traking of yours income and expenses with some addon feature lik
 * [Sass](https://sass-lang.com/)
 
 <!-- GETTING STARTED -->
-## 🏁 Getting Started
+## :checkered_flag: Getting Started
 >To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 * npm
 ```sh
 npm install npm@latest -g
 ```
-### ✨ Installation
+### :sparkles: Installation
 1. Clone the repo
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
@@ -76,11 +76,11 @@ npm install
 Use this app for fun calculation or make your personal full stack Application.
 
 <!-- ROADMAP -->
-## 📍 Roadmap
+## :round_pushpin: Roadmap
 See the [open issues](https://github.com/rirtakmanna/budgity/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
-## 🤝 Contributing
+## :v: Contributing
 Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -89,7 +89,7 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## :memo: License
 
 Copyright © 2020 [Rirtak Manna](https://github.com/rirtakmanna).<br />
 This project is [MIT](https://github.com/rirtakmanna/budgity/blob/master/LICENSE.md) licensed.
